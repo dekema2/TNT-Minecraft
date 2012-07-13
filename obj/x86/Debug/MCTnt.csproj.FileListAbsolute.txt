@@ -1,6 +1,0 @@
-C:\Users\Chris\AppData\Local\Temporary Projects\MCTnt\bin\Debug\MCTnt.exe
-C:\Users\Chris\AppData\Local\Temporary Projects\MCTnt\bin\Debug\MCTnt.pdb
-C:\Users\Chris\AppData\Local\Temporary Projects\MCTnt\obj\x86\Debug\MCTnt.exe
-C:\Users\Chris\AppData\Local\Temporary Projects\MCTnt\obj\x86\Debug\MCTnt.pdb
-C:\Users\Chris\documents\visual studio 2010\Projects\MCTnt\MCTnt\obj\x86\Debug\MCTnt.exe
-C:\Users\Chris\documents\visual studio 2010\Projects\MCTnt\MCTnt\obj\x86\Debug\MCTnt.pdb
